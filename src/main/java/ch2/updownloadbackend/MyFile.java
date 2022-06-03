@@ -11,5 +11,6 @@ public class MyFile {
     private String name;
     private long size;
     private String contentType;
-    private byte[] data;
+    private String data;
 }
+
